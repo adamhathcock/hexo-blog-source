@@ -1,5 +1,5 @@
 ---
-title: hexo-setup
+title: Setting up a blog
 date: 2016-03-30 10:46:35
 tags:
   - hexo
