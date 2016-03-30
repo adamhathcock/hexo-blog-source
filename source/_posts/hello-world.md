@@ -1,38 +1,10 @@
 ---
-title: Hello World
+title: Hello World Again
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+## Back in the game
 
-## Quick Start
+I figured I needed to start blogging or, at least, link-blogging again.  Mostly to catalog what I've been doing so I don't repeat myself.
 
-### Create a new post
+These days, I'm really into getting [.NET Core](https://dotnet.github.io/) into Docker and doing a lot with AWS at work.  However, I want to branch out from that and [SharpCompress](https://github.com/adamhathcock/sharpcompress) which has been in a holding pattern for a while.
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+I'm doing this blog in [Hexo](https://hexo.io/) to ease more into the Node/Javascript world.  I also need to gain experience with Azure as a lot of the cool kids are doing that as well and I don't want to get rusty. 

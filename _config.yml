@@ -4,10 +4,8 @@
 
 # Site
 title: adamhathcock.github.io
-subtitle:
-description:
+subtitle: the blog
 author: Adam Hathcock
-language: en
 timezone: Europe/London
 
 # URL
@@ -63,7 +61,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: light
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
